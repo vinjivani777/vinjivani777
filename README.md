@@ -6,7 +6,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=kaushikk25&label=View+Counter) -->
 
 [![LinkedIN Badge](https://img.shields.io/badge/LinkdeIN-Vin-blue)](https://www.linkedin.com/in/vinay-jivani-503785168/) 
-[![Instagram Badge](https://img.shields.io/badge/LinkdeIN-Vin-blue)](https://www.linkedin.com/in/vinay-jivani-503785168/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Vin-blue)](https://www.linkedin.com/in/vinay-jivani-503785168/) 
 
 
 
